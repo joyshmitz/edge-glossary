@@ -2,17 +2,17 @@
 
 Ласкаво просимо.
 
-[[Відкритий глосарій периферійних обчислень]{.underline}](https://github.com/State-of-the-Edge/glossary) є офіційним проектом Фонду Linux. Він спрямований на кураторство, визначення та гармонізацію термінів, пов\'язаних зі сферою периферійних обчислень. Учасники проекту вносять загальноприйнятні визначення у відкритий ліцензований репозиторій. Проект \"Відкритий глосарій\" використовує різноманітну спільноту для розвитку і вдосконалення цього спільного лексикону, пропонуючи незалежну від організацій і постачальників платформу для просування загального розуміння периферійних обчислень і інтернет-екосистем наступного покоління.
+[Відкритий глосарій периферійних обчислень](https://github.com/State-of-the-Edge/glossary) є офіційним проектом Фонду Linux. Він спрямований на кураторство, визначення та гармонізацію термінів, пов\'язаних зі сферою периферійних обчислень. Учасники проекту вносять загальноприйнятні визначення у відкритий ліцензований репозиторій. Проект \"Відкритий глосарій\" використовує різноманітну спільноту для розвитку і вдосконалення цього спільного лексикону, пропонуючи незалежну від організацій і постачальників платформу для просування загального розуміння периферійних обчислень і інтернет-екосистем наступного покоління.
 
 Відкритий глосарій управляється за допомогою прозорого та меритократичного процесу. Будь- хто може вносити доповнення, уточнення та пропозиції, піднявши питання на GitHub або відредагувавши гілку та створивши запит на вилучення. Кожне питання або запит оцінюється спільнотою на предмет включення до глосарію.
 
-Глосарій вільно поширюється на умовах ліцензії [[Creative Commons Attribution-ShareAlike 4.0]{.underline}](https://creativecommons.org/licenses/by-sa/4.0/) [[International (CC-BY-SA-4.0]{.underline}](https://creativecommons.org/licenses/by-sa/4.0/)) з метою заохочення використання та прийняття. Програмний код, що використовується в проекті, наприклад, скрипти для вбудовування перехресних посилань у файл розмітки, а також скрипти для створення PDF-файлів професійного вигляду, ліцензовано за [[ліцензією Apache, версія 2.0 (Apache-2.0]{.underline}](https://www.apache.org/licenses/LICENSE-2.0.html)). Ці ліцензії офіційно записані у файлі [[LICENSE]{.underline}](https://github.com/State-of-the-Edge/glossary/blob/master/LICENSE) проекту.
+Глосарій вільно поширюється на умовах ліцензії [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [(https://creativecommons.org/licenses/by-sa/4.0/) з метою заохочення використання та прийняття. Програмний код, що використовується в проекті, наприклад, скрипти для вбудовування перехресних посилань у файл розмітки, а також скрипти для створення PDF-файлів професійного вигляду, ліцензовано за [ліцензією Apache, версія 2.0 (Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html). Ці ліцензії офіційно записані у файлі [LICENSE](https://github.com/State-of-the-Edge/glossary/blob/master/LICENSE) проекту.
 
--   Інформацію про те, як зробити свій [[внесок]{.underline}](https://github.com/State-of-the-Edge/glossary/blob/master/CONTRIBUTING.md) у глосарій, див. у [[Посібнику]{.underline}](https://github.com/State-of-the-Edge/glossary/blob/master/CONTRIBUTING.md) зі створення глосарію
+-   Інформацію про те, як зробити свій [внесок](https://github.com/State-of-the-Edge/glossary/blob/master/CONTRIBUTING.md) у глосарій, див. у [Посібнику](https://github.com/State-of-the-Edge/glossary/blob/master/CONTRIBUTING.md) зі створення глосарію
 
--   Щоб переглянути версію глосарію зі знижкою, див. [[edge-glossary](https://github.com/State-of-the-Edge/glossary/blob/master/edge-glossary.md).[md](https://github.com/State-of-the-Edge/glossary/blob/master/edge-glossary.md)]{.underline}
+-   Щоб переглянути версію глосарію в markdown, див. [edge-glossary](https://github.com/State-of-the-Edge/glossary/blob/master/edge-glossary.md)
 
--   Надіслати приватний лист керівнику проекту: [[state-of-the-edge@gmail.com]{.underline}](mailto:state-of-the-edge@gmail.com)
+-   Надіслати приватний лист керівнику проекту: [state-of-the-edge@gmail.com](mailto:state-of-the-edge@gmail.com)
 
 ## 3G, 4G, 5G
 
